@@ -1,1 +1,1 @@
-# Scala_Arrays
+ there are some examples of scala arrays
